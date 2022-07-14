@@ -16,4 +16,6 @@ Dizi sıralandıktan sonra [2,6,16,18,22,27] şeklini alır. Bu sebeple 18 sayı
 1.[2,3,5,8,7,9,4,15,6]<br>
 2.[2,3,4,8,7,9,5,15,6]<br>
 3.[2,3,4,5,7,9,8,15,6]<br>
-4.[2,3,4,5,6,9,8,15,7]
+4.[2,3,4,5,6,9,8,15,7]<br>
+## Patika Linki
+[Patika Linki](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
